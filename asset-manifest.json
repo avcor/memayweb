@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/harish-gowda-n/memayweb/static/css/main.5f361e03.chunk.css",
-    "main.js": "/harish-gowda-n/memayweb/static/js/main.4dbd17f1.chunk.js",
-    "main.js.map": "/harish-gowda-n/memayweb/static/js/main.4dbd17f1.chunk.js.map",
-    "runtime-main.js": "/harish-gowda-n/memayweb/static/js/runtime-main.090468bd.js",
-    "runtime-main.js.map": "/harish-gowda-n/memayweb/static/js/runtime-main.090468bd.js.map",
-    "static/js/2.7bc6858d.chunk.js": "/harish-gowda-n/memayweb/static/js/2.7bc6858d.chunk.js",
-    "static/js/2.7bc6858d.chunk.js.map": "/harish-gowda-n/memayweb/static/js/2.7bc6858d.chunk.js.map",
-    "index.html": "/harish-gowda-n/memayweb/index.html",
-    "precache-manifest.f8246332076bf60733e768484b4bc4f9.js": "/harish-gowda-n/memayweb/precache-manifest.f8246332076bf60733e768484b4bc4f9.js",
-    "service-worker.js": "/harish-gowda-n/memayweb/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/harish-gowda-n/memayweb/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.7bc6858d.chunk.js.LICENSE.txt": "/harish-gowda-n/memayweb/static/js/2.7bc6858d.chunk.js.LICENSE.txt",
-    "static/media/bg.jpg": "/harish-gowda-n/memayweb/static/media/bg.58d14cc7.jpg",
-    "static/media/logo.svg": "/harish-gowda-n/memayweb/static/media/logo.5d5d9eef.svg"
+    "main.css": "/memayweb/static/css/main.5f361e03.chunk.css",
+    "main.js": "/memayweb/static/js/main.0daf0f1d.chunk.js",
+    "main.js.map": "/memayweb/static/js/main.0daf0f1d.chunk.js.map",
+    "runtime-main.js": "/memayweb/static/js/runtime-main.c3f43201.js",
+    "runtime-main.js.map": "/memayweb/static/js/runtime-main.c3f43201.js.map",
+    "static/js/2.7bc6858d.chunk.js": "/memayweb/static/js/2.7bc6858d.chunk.js",
+    "static/js/2.7bc6858d.chunk.js.map": "/memayweb/static/js/2.7bc6858d.chunk.js.map",
+    "index.html": "/memayweb/index.html",
+    "precache-manifest.3062d0200132590acf4e2958ddaf9edb.js": "/memayweb/precache-manifest.3062d0200132590acf4e2958ddaf9edb.js",
+    "service-worker.js": "/memayweb/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/memayweb/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7bc6858d.chunk.js.LICENSE.txt": "/memayweb/static/js/2.7bc6858d.chunk.js.LICENSE.txt",
+    "static/media/bg.jpg": "/memayweb/static/media/bg.58d14cc7.jpg",
+    "static/media/logo.svg": "/memayweb/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.090468bd.js",
+    "static/js/runtime-main.c3f43201.js",
     "static/js/2.7bc6858d.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.4dbd17f1.chunk.js"
+    "static/js/main.0daf0f1d.chunk.js"
   ]
 }
