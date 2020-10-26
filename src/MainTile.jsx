@@ -32,9 +32,9 @@ export default () => {
 
 const styles = {
   container: {
+    minHeight: 800,
     backgroundColor: "#6617cb",
     backgroundImage: "linear-gradient(320deg, #6617cb 5%, #cb218e 76%)",
-    height: 600,
     backgroundSize: "cover",
   },
   heading: {
