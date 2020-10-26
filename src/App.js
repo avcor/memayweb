@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './NavBar';
 import MainTile from './MainTile';
-import { Route, HashRouter as Router} from 'react-router-dom';
+import { Route, BrowserRouter as Router} from 'react-router-dom';
 import PrivacyPolicy from './PrivacyPolicy';
 
 function App() {
