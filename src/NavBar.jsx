@@ -1,6 +1,7 @@
 import React from "react";
 // import Navbar from "react-bootstrap/Navbar";
 import { Navbar, Nav } from 'react-bootstrap'
+import { NavLink } from 'react-router-dom';
 
 export default () => {
     return(
@@ -16,9 +17,9 @@ export default () => {
         <Navbar.Toggle aria-controls="responsive-navbar-nav"/>
         <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
           <Nav>
-              {["About us", "Random Memes", "Contact Us"].map((item) => 
-              <Nav.Link style={{paddingRight: 50}} href="/#contactUs">{item}</Nav.Link>)
-              }
+              <Nav.Link style={{paddingRight: 50}} href="https://memaynews.herokuapp.com/privacy-policy">About us</Nav.Link>
+              <Nav.Link style={{paddingRight: 50}} href="mailto:Admin@memay.in">Contact Us</Nav.Link>
+              
           </Nav>
         </Navbar.Collapse>
       </Navbar>
